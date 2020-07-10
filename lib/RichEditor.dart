@@ -1,0 +1,2 @@
+library rich_eidtor;
+
